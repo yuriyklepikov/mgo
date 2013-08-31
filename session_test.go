@@ -29,8 +29,8 @@ package mgo_test
 import (
 	"errors"
 	"flag"
-	"mgo"
-	"mgo/bson"
+	"github.com/yuriyklepikov/mgo"
+	"github.com/yuriyklepikov/mgo/bson"
 	. "launchpad.net/gocheck"
 	"math"
 	"sort"
