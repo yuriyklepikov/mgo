@@ -28,7 +28,7 @@ package mgo
 
 import (
 	"errors"
-	"mgo/bson"
+	"github.com/yuriyklepikov/mgo/bson"
 	"net"
 	"sync"
 )
