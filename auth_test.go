@@ -28,7 +28,7 @@ package mgo_test
 
 import (
 	. "launchpad.net/gocheck"
-	"mgo"
+	"github.com/yuriyklepikov/mgo"
 	"sync"
 )
 
