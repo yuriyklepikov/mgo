@@ -31,8 +31,8 @@ import (
 	"flag"
 	"fmt"
 	. "launchpad.net/gocheck"
-	"mgo"
-	"mgo/bson"
+	"github.com/yuriyklepikov/mgo"
+	"github.com/yuriyklepikov/mgo/bson"
 	"os/exec"
 
 	"strings"
