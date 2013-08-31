@@ -31,7 +31,7 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
-	"mgo/bson"
+	"github.com/yuriyklepikov/mgo/bson"
 	"math"
 	"reflect"
 	"runtime"
