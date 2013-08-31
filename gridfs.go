@@ -32,7 +32,7 @@ import (
 	"errors"
 	"hash"
 	"io"
-	"mgo/bson"
+	"github.com/yuriyklepikov/mgo/bson"
 	"os"
 	"sync"
 	"time"
