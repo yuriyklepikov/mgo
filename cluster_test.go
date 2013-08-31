@@ -29,8 +29,8 @@ package mgo_test
 import (
 	"io"
 	. "launchpad.net/gocheck"
-	"mgo"
-	"mgo/bson"
+	"github.com/yuriyklepikov/mgo"
+	"github.com/yuriyklepikov/mgo/bson"
 	"strings"
 	"time"
 )
