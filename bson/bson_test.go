@@ -32,7 +32,7 @@ import (
 	"encoding/json"
 	"errors"
 	. "launchpad.net/gocheck"
-	"mgo/bson"
+	"github.com/yuriyklepikov/mgo/bson"
 	"net/url"
 	"reflect"
 	"testing"
