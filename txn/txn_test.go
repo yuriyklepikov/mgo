@@ -1,9 +1,9 @@
 package txn_test
 
 import (
-	"labix.org/v2/mgo"
-	"labix.org/v2/mgo/bson"
-	"labix.org/v2/mgo/txn"
+	"github.com/yuriyklepikov/mgo"
+	"github.com/yuriyklepikov/mgo/bson"
+	"github.com/yuriyklepikov/mgo/txn"
 	. "launchpad.net/gocheck"
 	"testing"
 )
